@@ -7,29 +7,13 @@ Lógica e Algoritmos
 
 Pacote 1 de exercícios de lógica e algoritmos com Python.
 
-## Dicas
+> **Dica rápida:** use a função `input()` para receber dados do teclado pelo terminal. Referência abaixo:
 
-Use a função `input()` para receber dados do teclado pelo terminal. Exemplo:
+### Referências
 
-`ex1input.py`
-```python
-print('Digite seu nome e tecle [Enter]: ')
-varNome = input()
-print('Olá, ' + varNome)
-```
-
-A função `input()` aceita uma string como parâmetro. Exemplo:
-
-`ex2input.py`
-```python
-varNome = input("Digite seu nome e tecle [Enter]: ")
-print("Seu nome é", varNome)
-```
- - Referências: [Python input() Function (w3schools.com)](https://www.w3schools.com/python/ref_func_input.asp)
-
-### Mais referências
-
+ - [Python input() Function (w3schools.com)](https://www.w3schools.com/python/ref_func_input.asp)
  - [Python Variables (w3schools.com)](https://www.w3schools.com/python/python_variables.asp)
+ - [Python Casting (w3schools.com)](https://www.w3schools.com/python/python_casting.asp)
  - [Python Conditions (w3schools.com)](https://www.w3schools.com/python/python_conditions.asp)
  - [Python Operators (w3schools.com)](https://www.w3schools.com/python/python_operators.asp)
  - [Python print() Function (w3schools.com)](https://www.w3schools.com/python/ref_func_print.asp)
