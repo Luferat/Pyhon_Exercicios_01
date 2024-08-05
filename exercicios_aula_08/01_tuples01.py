@@ -4,7 +4,7 @@ Crie uma tupla chamada minha_tupla que armazene as cores do arco-íris: "vermelh
 Exiba na tela a cor que está na quarta posição da tupla.
 Tente modificar o valor da cor na quinta posição da tupla. (Isso deve gerar um erro, pois tuplas são imutáveis).
 Crie uma nova tupla chamada cores_invertidas que seja a reversa da minha_tupla.
-Mostre na tela a cores_invertidas.
+Mostre na tela as cores_invertidas.
 """
  
 # Crie uma tupla chamada minha_tupla que armazene as cores do arco-íris: "vermelho", "laranja", "amarelo", "verde", "azul", "anil" e "violeta". 
