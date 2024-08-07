@@ -17,25 +17,25 @@ class Carro:
         print("Cof Cof")
 
 
-# Cria um objeto `fuscao`
+# Cria um objeto `fuscao` do tipo `Carro`
 fuscao = Carro() # ou criando um "instância" do tipo Carro
 
-# Cor do meu carro
+# Define o atributo `cor` do objeto `fuscao`
 fuscao.cor = "preto"
 
-# Ligar o carro
+# Executa o método `ligar()` do objeto `fuscao`
 fuscao.ligar()
 
-# Desligar o carro
+# Desligar o método `desligar()` do objeto `fuscao`
 fuscao.desligar()
 
-# ler a cor do carro
+# Recebe o atributo `cor` do objeto `fuscao`
 print(fuscao.cor)
 
 
 # Cria outro objeto
-opalao = Carro()
-opalao.cor = 'vermelho'
-opalao.ligar()
-print(opalao.cor)
-opalao.desligar()
+opalao = Carro()        # Instância da classe `Carro`
+opalao.cor = 'vermelho' # Define valor do atributo
+opalao.ligar()          # Executa método
+print(opalao.cor)       # Recebe valor do atributo
+opalao.desligar()       # Executa método
